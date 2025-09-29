@@ -10,18 +10,23 @@ This article tests the inhibition oxaloacetate has of succinate dehydrogenase (S
 
 
 David W. Schiering, J.E. Katon. (1986) The vibrational spectra and structure of oxaloacetic acid, Journal of Molecular Structure, Volume 144, Issues 1–2, Pages 71-82, ISSN 0022-2860, https://doi.org/10.1016/0022-2860(86)80168-5. 
+        The complete vibrational spectra was detected in ambient temperature based on the enol form of solid oxaloacetate (the conjugate base of oxaloacetic acid). The keto-enol tautomerization was also confirmed using solvents of different polarity when obtaining frequencies. Shiering mentions the biochemical importance of oxaloacetate is a more documented subject while the spectra and physical properties are mostly unknown with very few publications (still the case even now). The unique structure makes determining if the keto or enol form will be dominant difficult, but with a complete vibrational spectrum the most stable conformation can be found. Schiering found oxaloacetic acid exists in equilibrium of the keto and enol forms in solution. In high polarity concentrations, the keto form is more stable. The enol form found significant lowering of the carbonyl stretch due to the molecule being conjugated and having hydrogen bonds, an effect known as “conjugative-chelatation.” It is also predicted that oxaloacetic acid exists as a solid only in the enol form based on bands at the ~3115 cm-1 in both Raman and Infrared spectra.
+
+
+National Center for Biotechnology Information (2025). PubChem Pathway Summary for Pathway SMP0063477, Citric Acid Cycle, Source: PathBank. Retrieved September 26, 2025 from https://pubchem.ncbi.nlm.nih.gov/pathway/PathBank:SMP0063477.
 ________________
 
 
 M. Kemiche, P. Becker, C. Carabatos-Nédelec, B. Wyncke, F. Bréhat (1996). Raman and infrared spectra of lithium hydrogen malate Li+H(C4H4O5−)(C4H6O5), Vibrational Spectroscopy, Volume 11, Issue 2, Pages 135-142, ISSN 0924-2031, https://doi.org/10.1016/0924-2031(95)00070-4
 Kemiche grew single Lithium Hydrogen Malate crystals (LHM) by slow evaporation of an aqueous solution. Spectra of these crystals were recorded at room temperature and 10K (-263.15 Celsius). No low temperature phase transition was seen. The author provides history of the study of malic salts as far back as 1899 by Traube. The symmetry of LHM was found to be C22 with infinite chains parallel to the [101] direction and perpendicular to the b axis [2]. These planes indicate good cleavage planes. LHM was prepared at room temperature in stoichiometric amounts (1 lithium hydrogen:2 malic acid). Evaporation took place over 2-3 weeks with resulting sizes of 7x6x4mm3 and low hygroscopic character. Raman spectra were recorded on a SPEX double monochromator spectrometer using 5145 Å line from a 200mW power argon laser. 10K samples used an Air Product Displex cryostat. The bands had only small frequency shifts with the change in temperature which indicates there is no phase change at low temperatures. Tables with vibrational modes as well as figures of the spectra are provided in this journal.
-
-
+Barańska, H., Kuduk-Jaworska, J., Szostak, R. and Romaniewska, A. (2003), Vibrational spectra of racemic and enantiomeric malic acids. J. Raman Spectrosc., 34: 68-76. https://doi.org/10.1002/jrs.953
+        The vibrational frequencies of racemic (DL-) and enantiomeric (L- and D-) 
 ________________
 
 
 Malate
-Barańska, H., Kuduk-Jaworska, J., Szostak, R. and Romaniewska, A. (2003), Vibrational spectra of racemic and enantiomeric malic acids. J. Raman Spectrosc., 34: 68-76. https://doi.org/10.1002/jrs.953
+
+
 https://pubmed.ncbi.nlm.nih.gov/1888740/
 https://pubmed.ncbi.nlm.nih.gov/7734152/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083091
